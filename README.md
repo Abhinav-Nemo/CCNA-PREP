@@ -11,6 +11,8 @@ This project includes various networking protocols that replicates a real world 
 
 This lab has a core layer of two Cisco 3650 layer 3 switches, three layer 2 swithces distribution layer and PCs as access layer.
 
+Assigned switches interface into proper vlans. Set the VTp domain to CCNA and for security assigned enable password and VTY password of cisco
+
 
 
 
